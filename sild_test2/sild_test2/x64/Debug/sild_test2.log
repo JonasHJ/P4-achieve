@@ -1,0 +1,7 @@
+﻿  sild_test2.cpp
+c:\users\jayjay\source\repos\sild_test2\sild_test2\sild_test2.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jayjay\source\repos\sild_test2\sild_test2\sild_test2.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jayjay\source\repos\sild_test2\sild_test2\sild_test2.cpp(78): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jayjay\source\repos\sild_test2\sild_test2\sild_test2.cpp(82): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jayjay\source\repos\sild_test2\sild_test2\sild_test2.cpp(86): warning C4305: '=': truncation from 'double' to 'float'
+  sild_test2.vcxproj -> C:\Users\JayJay\source\repos\sild_test2\x64\Debug\sild_test2.exe
